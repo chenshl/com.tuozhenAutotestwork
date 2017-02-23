@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67301" started-at="2017-02-23T08:48:36Z" finished-at="2017-02-23T08:49:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67301" started-at="2017-02-23T08:48:36Z" finished-at="2017-02-23T08:49:43Z">
+      <class name="doc.DocLoginTestOne">
+        <test-method status="PASS" signature="choosedriver()[pri:0, instance:doc.DocLoginTestOne@319be851]" name="choosedriver" is-config="true" duration-ms="6271" started-at="2017-02-23T16:48:36Z" finished-at="2017-02-23T16:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choosedriver -->
+        <test-method status="PASS" signature="clickuserloginbutton()[pri:0, instance:doc.DocLoginTestOne@319be851]" name="clickuserloginbutton" duration-ms="60475" started-at="2017-02-23T16:48:42Z" finished-at="2017-02-23T16:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickuserloginbutton -->
+        <test-method status="PASS" signature="releasedriver()[pri:0, instance:doc.DocLoginTestOne@319be851]" name="releasedriver" is-config="true" duration-ms="532" started-at="2017-02-23T16:49:43Z" finished-at="2017-02-23T16:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- releasedriver -->
+      </class> <!-- doc.DocLoginTestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
