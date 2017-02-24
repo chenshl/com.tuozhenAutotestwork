@@ -36,6 +36,7 @@ public class DocLoginTestOne {
 		wait.waitForElementIsEnable("//*[@id='loginOut']");//等待退出登录加载，验证是否登录成功
 		wait.waitFor(5000);
 		homepage.loginout();
+		wait.waitFor(5000);
 	}
 	
 	@AfterClass
